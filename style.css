@@ -1,4 +1,4 @@
-*{
+*{font-variant-numeric: proportional-nums;
     margin: 0;
     padding: 0;
 }
@@ -7,7 +7,7 @@ body {
 }
 .cabecalho {
     background-color: rgb(196, 48, 151);
-    color: rgb(255, 255, 255);
+    color: #ca3ddd;
     display: flex;stroke-width: ;
     justify-content: space-around;
     align-items: center;
